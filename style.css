@@ -1,0 +1,30 @@
+section{
+    background-image: url("computadoras.png");
+}
+
+p {
+    color: rgb(65, 62, 62);
+    text-align: center;
+}
+
+img {
+    width: 15em;
+    height: 15em;
+    opacity: 0.9;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
